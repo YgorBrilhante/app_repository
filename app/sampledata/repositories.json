@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": 521730088,
+      "name": "female_soccer_news_app",
+      "owner": {
+        "login": "YgorBrilhante",
+        "avatar_url": "https://avatars.githubusercontent.com/u/107582543?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Java",
+      "html_url": "https://github.com/YgorBrilhante/female_soccer_news_app",
+      "description": "App de notícias sobre futebol feminino"
+    },
+    {
+      "id": 518561969,
+      "name": "imc-calculator",
+      "owner": {
+        "login": "YgorBrilhante",
+        "avatar_url": "https://avatars.githubusercontent.com/u/107582543?v=4"
+      },
+      "html_url": "https://github.com/YgorBrilhante/imc-calculator",
+      "description": "Calculadora IMC desenvolvida com Kotlin e Java",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 512781684,
+      "name": "project-matches-simulator-app",
+      "owner": {
+        "login": "YgorBrilhante",
+        "avatar_url": "https://avatars.githubusercontent.com/u/107582543?v=4"
+      },
+      "html_url": "https://github.com/YgorBrilhante/project-matches-simulator-app",
+      "description": "App de Simulação de partidas esportivas",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 506769755,
+      "name": "projeto-previsao-de-vendas",
+      "owner": {
+        "login": "YgorBrilhante",
+        "avatar_url": "https://avatars.githubusercontent.com/u/107582543?v=4"
+      },
+      "html_url": "https://github.com/YgorBrilhante/projeto-previsao-de-vendas",
+      "description": "projeto de previsao de vendas de uma empresa com base em seus investimentos em TV, Jornal ou Rádio",
+      "stargazers_count": 0,
+      "language": "Python"
+    },
+    {
+      "id": 506072420,
+      "name": "WEB-Scraping---Dollar-Euro-and-Gold-prices",
+      "owner": {
+        "login": "YgorBrilhante",
+        "avatar_url": "https://avatars.githubusercontent.com/u/107582543?v=4"
+      },
+      "html_url": "https://github.com/YgorBrilhante/WEB-Scraping---Dollar-Euro-and-Gold-prices",
+      "description": "Automação WEB Scraping que coleta informações sobre a cotação do Dólar, Euro e Ouro",
+      "stargazers_count": 0,
+      "language": "Python"
+    },
+    {
+      "id": 522308366,
+      "name": "app_repository",
+      "owner": {
+        "login": "YgorBrilhante",
+        "avatar_url": "https://avatars.githubusercontent.com/u/107582543?v=4"
+      },
+      "html_url": "https://github.com/YgorBrilhante/app_repository",
+      "description": "App para a apresentação do meu repositório do GitHub",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 506265965,
+      "name": "Data-Analysis---Telecom-Churn-problem",
+      "owner": {
+        "login": "YgorBrilhante",
+        "avatar_url": "https://avatars.githubusercontent.com/u/107582543?v=4"
+      },
+      "html_url": "https://github.com/YgorBrilhante/Data-Analysis---Telecom-Churn-problem",
+      "description": "Analise de dados para entender o motivo do Churn de uma empresa de telecomunicações",
+      "stargazers_count": 0,
+      "language": "Python"
+    }
+  ]
+}
